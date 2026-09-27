@@ -178,6 +178,23 @@ easy to walk into and hard to diagnose from the error message, so this page exis
 
 Tested on: DSH `0.1.1-rc.2`, Node `v24.20.0`, Linux.
 
+## Work with me
+
+The failure this page documents is most of what I do for a living: I build and audit **DeepSeek
+Harness plugins**, and I fix profiles that a plugin install has already broken.
+
+- **Profile rescue** — the `reading 'prepare'` crash above, diagnosed and recovered, with a hardened
+  install method verified on a scratch port
+- **Plugin build** — host routes plus a client UI, installed safely, with rollback
+- **Plugin audit** — verdict first, `file:line` findings against a pinned commit
+
+Available for work — **open an issue on this repository**, or reach me through
+[my GitHub profile](https://github.com/samorachumbi).
+
+Worked examples: [`dsh-cost-bubble`](https://github.com/samorachumbi/dsh-cost-bubble) (a live client-half
+plugin) and [`dsh-daily-progress-tab`](https://github.com/samorachumbi/dsh-daily-progress-tab) (a planner with
+agent tools).
+
 ## Licence
 
 MIT — see `LICENSE`.
