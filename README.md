@@ -1,5 +1,10 @@
 # How `dsh plugin add` bricked my profile — twice — and the install method that can't
 
+> **Need this built, fixed or adapted for your team?** Email
+> **[samora@itikia.co.ke](mailto:samora@itikia.co.ke)** — paid work, a project that does not exist yet, or a
+> question you would rather not post publicly. Answered within one business day, and a call is fine if you
+> would rather talk. Not a developer? There is no wrong door: write in your own words, no jargon needed.
+
 If your [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) tools suddenly fail with
 
 ```
